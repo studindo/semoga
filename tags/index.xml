@@ -1,14 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Studindo</title>
-    <link>https://studindo.github.io/semoga/</link>
-    <description>Recent content on Studindo</description>
+    <title>Tags on Studindo</title>
+    <link>https://studindo.github.io/semoga/tags/</link>
+    <description>Recent content in Tags on Studindo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>id-in</language>
     <copyright>©2019 Notepadium.</copyright>
-    <lastBuildDate>Wed, 28 Apr 2021 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="https://studindo.github.io/semoga/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://studindo.github.io/semoga/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
